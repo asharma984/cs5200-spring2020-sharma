@@ -1,0 +1,5 @@
+Endpoint:
+cs5200-spring2020-sharma.cybyq1ucy4nv.us-east-2.rds.amazonaws.com
+Port:3306
+username:root
+password:Master19
